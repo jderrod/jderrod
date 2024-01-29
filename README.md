@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jderrod
-- 👀 I’m interested in ... dota
-- 🌱 I’m currently learning ... how to dota
-- 💞️ I’m looking to collaborate on ... dota
-- 📫 How to reach me ... dota: @boof
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... how 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 jderrod/jderrod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
